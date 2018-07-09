@@ -1,0 +1,22 @@
+{
+    "name": "theme-solarized-light-fjs-improved",
+    "displayName": "theme-solarized-light-fjs-improved",
+    "description": "Based on Solarized light and tailored for functional programming style in JavaScript, improved to make the full UI colored",
+    "version": "0.0.1",
+    "publisher": "xosplicer",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized-light-fjs-improved",
+                "uiTheme": "vs",
+                "path": "./themes/Solarized-light-fjs-improved-color-theme.json"
+            }
+        ]
+    }
+}
